@@ -1,2 +1,2 @@
-# Wagner-Nunes-Blattner
+# WagnerNunesBlattner
 Meu repositório pessoal
