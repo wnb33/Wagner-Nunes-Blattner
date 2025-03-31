@@ -1,2 +1,0 @@
-# WagnerNunesBlattner
-Meu repositório pessoal
